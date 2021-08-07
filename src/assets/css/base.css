@@ -2,6 +2,7 @@
 
 /*:root -> 获取根元素html*/
 :root {
+   /* 定义变量 后续使用 样式名：var (变量) */
   --color-text: #666;
   --color-high-text: #ff5777;
   --color-tint: #ff8198;
